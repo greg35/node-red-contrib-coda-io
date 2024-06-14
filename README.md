@@ -2,9 +2,9 @@
 
 [Coda](https://coda.io/ "Coda") is a powerful online tool that allows you to build complex and interactive documents quickly.
 
-With [Coda APIs](https://coda.io/developers/apis/v1beta1 "coda.io APIs"), you can interact with tables within Coda documents. The nodes included in this package allow you to easily work with Coda APIs using Node-RED.
+With [Coda APIs](https://coda.io/developers/apis/v1 "coda.io APIs"), you can interact with tables within Coda documents. The nodes included in this package allow you to easily work with Coda APIs using Node-RED.
 
-**This package is compatible with Coda API version 0.1.1-beta**
+**This package is compatible with Coda API version 1**
 
 ## Content of this package and features
 
